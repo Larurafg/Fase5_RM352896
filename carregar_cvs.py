@@ -1,9 +1,7 @@
-# carregar_cvs.py
-
 import json
 
-def carregar_cv_arquivo(caminho_arquivo):
-    with open(caminho_arquivo, encoding='utf-8') as f:
+def carregar_cv_arquivo(caminho_json):
+    with open(caminho_json, encoding='utf-8') as f:
         data = json.load(f)
 
     cvs = []
