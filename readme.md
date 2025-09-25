@@ -1,16 +1,16 @@
-# 📄 Melhorador de Currículo com IA Local
+# Melhorador de Currículo com IA Local
 
 Este projeto é um MVP (Produto Mínimo Viável) que utiliza um modelo de linguagem pré-treinado para **melhorar automaticamente o texto de currículos**, rodando 100% **localmente**, sem dependência de APIs externas como OpenAI.
 
 ---
 
-## 🚀 Objetivo
+## Objetivo
 
 Facilitar o trabalho de consultores de RH e recrutadores, automatizando a **reescrita de currículos** em uma linguagem mais clara, formal e profissional.
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python 3.10+
 - Hugging Face Transformers (`T5`)
@@ -20,7 +20,7 @@ Facilitar o trabalho de consultores de RH e recrutadores, automatizando a **rees
 
 ---
 
-## 🧠 Como Funciona
+## Como Funciona
 
 - O sistema carrega os currículos do arquivo `applicants.json`;
 - Extrai o texto dos CVs (`cv_pt`);
