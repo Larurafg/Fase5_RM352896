@@ -4,6 +4,12 @@ Este projeto é um MVP (Produto Mínimo Viável) que utiliza um modelo de lingua
 
 ---
 
+## Link do Streamlit
+
+(https://fase5rm352896-n4kfa8mjvzmxccdqkhtxcs.streamlit.app/)
+
+---
+
 ## Objetivo
 
 Facilitar o trabalho de consultores de RH e recrutadores, automatizando a **reescrita de currículos** em uma linguagem mais clara, formal e profissional.
