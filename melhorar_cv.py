@@ -3,7 +3,7 @@ import torch
 from limpar_cv import limpar_cv
 
 # Carrega modelo
-model_name = "unicamp-dl/ptt5-base-paraphraser"
+model_name = "t5-small"
 tokenizer = T5Tokenizer.from_pretrained(model_name)
 model = T5ForConditionalGeneration.from_pretrained(model_name)
 
